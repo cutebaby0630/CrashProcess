@@ -9,4 +9,10 @@
     <ProjectReference Include="..\..\SqlServerHelper.Core\SqlServerHelper.Core\SqlServerHelper.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="appsetting.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
