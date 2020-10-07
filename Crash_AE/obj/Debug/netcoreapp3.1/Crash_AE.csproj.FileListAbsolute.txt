@@ -1,0 +1,4 @@
+C:\Users\v-vyin\source\repos\Crash_AE\Crash_AE\obj\Debug\netcoreapp3.1\Crash_AE.csprojAssemblyReference.cache
+C:\Users\v-vyin\source\repos\Crash_AE\Crash_AE\obj\Debug\netcoreapp3.1\Crash_AE.AssemblyInfoInputs.cache
+C:\Users\v-vyin\source\repos\Crash_AE\Crash_AE\obj\Debug\netcoreapp3.1\Crash_AE.AssemblyInfo.cs
+C:\Users\v-vyin\source\repos\Crash_AE\Crash_AE\obj\Debug\netcoreapp3.1\Crash_AE.csproj.CoreCompileInputs.cache
